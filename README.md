@@ -32,7 +32,7 @@
   <table border="0" cellpadding="15" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Node.js_&_React-87A96B?style=for-the-badge&labelColor=A4B494" alt="Learning"/>
+        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Next.js_&_TypeScript-87A96B?style=for-the-badge&labelColor=A4B494" alt="Learning"/>
       </td>
     </tr>
     <tr>
@@ -87,6 +87,8 @@
   <img src="https://img.shields.io/badge/Java-A4B494?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=9CAF88" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-B8C5A6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=A4B494" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-87A96B?style=for-the-badge&logo=python&logoColor=white&labelColor=B8C5A6" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-B8C5A6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=A4B494" alt="TypeScript"/>
+
   
   <br>
   
@@ -98,6 +100,8 @@
   <img src="https://img.shields.io/badge/React-B8C5A6?style=for-the-badge&logo=react&logoColor=white&labelColor=A4B494" alt="React"/>
   <img src="https://img.shields.io/badge/TailwindCSS-87A96B?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=B8C5A6" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-9CAF88?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=87A96B" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Next.js-9CAF88?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=87A96B" alt="Next.js"/>
+
   
   <br>
   
@@ -133,11 +137,15 @@
   
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20;">
     
-<!-- Most Used Languages - Multiple fallback options -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aayushmak&layout=compact&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&border_radius=15&card_width=320&langs_count=8&hide_progress=false" alt="Most Used Languages"/>
+<!-- Languages with fallback -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmak&layout=compact&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&border_radius=15&card_width=320&langs_count=8&hide_progress=false" 
+     onerror="this.src='https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aayushmak&layout=compact&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&border_radius=15&card_width=320&langs_count=8&hide_progress=false'"
+     alt="Most Used Languages"/>
 
-<!-- GitHub Stats - Alternative hosted version -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayushmak&show_icons=true&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&icon_color=9CAF88&border_radius=15&include_all_commits=true&count_private=true&hide_rank=false" alt="GitHub Stats"/>
+<!-- Stats with fallback -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushmak&show_icons=true&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&icon_color=9CAF88&border_radius=15&include_all_commits=true&count_private=true&hide_rank=false"
+     onerror="this.src='https://github-readme-stats-anuraghazra1.vercel.app/api?username=aayushmak&show_icons=true&theme=light&title_color=87A96B&text_color=4A5D3A&bg_color=F5F7F0&border_color=87A96B&icon_color=9CAF88&border_radius=15&include_all_commits=true&count_private=true&hide_rank=false'"
+     alt="GitHub Stats"/>
     
   </div>
   
@@ -208,14 +216,10 @@
 
 <div align="center">
   
-  **Made with 💚 and lots of ☕** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
+  **Made with 💚 and lots of ☕** 
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20" alt="Star"> *Keep coding, keep growing!* <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20" alt="Star">
   
-  <!-- Visitor count with animation -->
-  <br><br>
-  <!-- Primary visitor counter -->
-  <img src="https://profile-counter.glitch.me/aayushmak/count.svg" alt="Visitor Count" style="border-radius: 10px;"/>
   
   
 </div>
